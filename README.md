@@ -28,9 +28,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: https://github.com/mrxshinji/interactive-pricing
-- Live Site URL: https://mrxshinji.github.io/interactive-pricing
-
+- Solution URL: https://github.com/mrxshinji/social-media-dashboard
+- Live Site URL: https://mrxshinji.github.io/social-media-dashboard
 
 ## My process
 
